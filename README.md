@@ -21,8 +21,6 @@ This app challenges users to tap the screen as quickly as possible when the colo
 
 ## 📸 Screenshots
 
-> Add your screenshots below by replacing the placeholder paths with actual image links or local paths.
-
 | Home Screen | Wait Display | Tap Display | Score & Personal Best |
 |-------------|---------------|----------------|----------------|
 | ![Home](src/main.png) | ![Test](src/wait.png) | ![Score](src/tap.png) | ![Best](src/result.png) |
